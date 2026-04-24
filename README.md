@@ -27,7 +27,8 @@ Run:
 
 ```powershell
 .\setup.ps1
-
+ ```
+ 
 This will:
 
 - Create virtual environment
