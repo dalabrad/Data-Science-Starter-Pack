@@ -28,7 +28,7 @@ Run:
 ```powershell
 .\setup.ps1
  ```
- 
+
 This will:
 
 - Create virtual environment
@@ -47,7 +47,8 @@ This template enforces:
 
 ---
 
-##🎯 Usage
+## 🎯 Usage
+
 - Clone repo
 - Run setup.ps1
 - Start your project in /notebooks
